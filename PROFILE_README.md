@@ -9,7 +9,7 @@
 ### Hybrid AI · LLMs · Semantic AI · Ethical Digital Twins  
 ### AI & Big Data Engineer @ Télécom Nancy
 
-I work on **Ethical Digital Twins for Smart Manufacturing**, with a focus on using **Large Language Models**, **prompt engineering**, and **semantic AI** to support explainable and trustworthy decision-making in industrial environments.
+I am an Artificial Intelligence and Big Data engineer from Télécom Nancy, a French engineering school, and a PhD researcher at CRAN – CNRS (French National Centre for Scientific Research), University of Lorraine. My work focuses on Ethical Digital Twins for Smart Manufacturing, where I explore the use of Large Language Models, prompt engineering, and semantic AI to enable explainable and trustworthy decision-making in complex industrial environments.
 
 My long-term goal is to contribute to the development of **human-centered autonomous systems** capable of reasoning about safety, fairness, fatigue, productivity, and ethical trade-offs.
 
@@ -43,7 +43,5 @@ My long-term goal is to contribute to the development of **human-centered autono
 
 ### 📫 Let’s connect
 
-- LinkedIn: `add-your-link-here`
-- Google Scholar: `add-your-link-here`
-- ORCID: `add-your-link-here`
-- Email: `add-your-email-here`
+- LinkedIn: `https://www.linkedin.com/in/chahrazad-sehrani-7b07b026a/`
+- Email: `chahrazad.sehrani@univ-lorraine.fr`
