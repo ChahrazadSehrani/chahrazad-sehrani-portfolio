@@ -225,10 +225,8 @@ See [`collaboration.md`](./collaboration.md).
 - Location: Nancy, Grand Est, France
 - Affiliation: CRAN – CNRS / Université de Lorraine
 - Engineering school: Télécom Nancy
-- LinkedIn: `add-your-link-here`
-- Google Scholar: `add-your-link-here`
-- ORCID: `add-your-link-here`
-- Email: `add-your-email-here`
+- LinkedIn: `(https://www.linkedin.com/in/chahrazad-sehrani-7b07b026a/)`
+- Email: `chahrazad.sehrani@univ-lorraine.fr`
 
 ---
 
